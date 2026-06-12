@@ -3,7 +3,6 @@
 **Encadré par :** Mr Ahmed Amamou
 ---
 
-## 📁 Projects
 
 ### 1. Les Applications Distribuées — TPs
 🔗 [Repository](https://github.com/creepout777/TP-applications-distribuees-python)

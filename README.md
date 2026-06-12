@@ -3,14 +3,9 @@
 **Encadré par :** Mr Ahmed Amamou
 ---
 
+- [Les applications distribuees - TPs](https://github.com/creepout777/TP-applications-distribuees-python)
+- [Cloud Computing - TPs](https://github.com/creepout777/Exploration-et-comparaison-de-VMware_ESXi-et-Proxmox_VE)
+- [projet de fin de semetre repository](https://github.com/creepout777/UEMF-University-Management)
+- [projet de fin de semetre live URL](http://5.189.141.148:3000/login)
 
-### 1. Les Applications Distribuées — TPs
-🔗 [Repository](https://github.com/creepout777/TP-applications-distribuees-python)
-
-### 2. Cloud Computing — TPs
-Exploration et comparaison de VMware ESXi et Proxmox VE
-🔗 [Repository](https://github.com/creepout777/Exploration-et-comparaison-de-VMware_ESXi-et-Proxmox_VE)
-
-### 3. Projet de Fin de Semestre — UEMF University Management
-🔗 [Repository](https://github.com/creepout777/UEMF-University-Management)
-🌐 [Live Demo](http://5.189.141.148:3000/login)
+make it richer with my name and the teacher name,  im in EIDIA - Cybersecurity
